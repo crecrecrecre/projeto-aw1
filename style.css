@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(205, 218, 230);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.header {
+    background-color: rgb(123, 211, 130);
+    padding: 15px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    font-style: bold;
+}
+
+.post p {
+    margin: 10px 0;
+}
+
+.menu {
+    color: antiquewhite;
+    padding: 10px;
+}
+
+.logo {
+    padding: 10px;
+    font-size: 30px;
+    font-style: bold;
+    color: rgb(69, 156, 95);
+}
+
+.menu a,
+.menu a:visited {
+    color: antiquewhite;
+    text-decoration: none;
+    padding: 8px 12px;
+}
+
+.menu a:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(123, 211, 135);
+    border-radius: 10px;
+}
+
+.container {
+    width: 920px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.posts {
+    width: 660px;
+    float: left;
+}
+
+.post {
+    padding: 20px;
+    margin-bottom: 15px;
+    background-color: antiquewhite;
+
+}
+
+h2 {
+    color: rgb(38, 168, 88);
+    margin-bottom: 5px;
+    display: block;
+}
+
+.data-post {
+    font-size: 0.8em;
+    margin-bottom: 15px;
+    display: block;
+}
+
+.barra-lateral {
+    width: 240px;
+    background-color: antiquewhite;
+    float: right;
+}
+
+
+
+.conteudo-lateral {
+    background-color: antiquewhite;
+    padding: 10px;
+}
+
+.conteudo-lateral h3 {
+    color:rgb(69, 156, 95);
+    font-style: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.post-destaque {
+    font-size: 13px;
+
+    
+}
+
+.footer {
+    clear: both;
+    background-color: rgb(123, 211, 135);
+    padding: 15px;
+}
+
+.footer p {
+    color: antiquewhite;
+    text-align: center;
+}
