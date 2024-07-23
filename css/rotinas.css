@@ -135,13 +135,13 @@ h2 {
     margin-bottom: 15px;
     display: block;
 }
-.footer {
+footer {
     clear: both;
     background-color: #a9d474;
     padding: 15px;
 }
 
-.footer p {
+footer p {
     color: antiquewhite;
     text-align: center;
 }

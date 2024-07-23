@@ -190,4 +190,5 @@ a {
 .footer p {
     color: antiquewhite;
     text-align: center;
+    align-items: end;
 }
